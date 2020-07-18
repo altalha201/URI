@@ -1,3 +1,4 @@
-# URI C Accepted code
+# URI Accepted code
 
-All codes are here to recive knowledge. Not to copy.  
+All codes are here to recive knowledge. Not to copy. 
+ 
