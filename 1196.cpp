@@ -1,7 +1,7 @@
-/*1196	WERTYU*/
-
 #include <stdio.h>
 #include <string.h>
+
+using namespace std;
 
 int main () {
 	char base[48] = "`1234567890-=QWERTYUIOP[]\\ASDFGHJKL;'ZXCVBNM,./";
